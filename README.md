@@ -1,7 +1,7 @@
 # Ticky Tacky Toe
 
 ### Wireframe
-![wireframe](./wireframe/image.png)
+![wireframe](./wireframe/7990bdb6358346cd83934fe85b11b589.png)
 
 ### Game Instructions 
 
