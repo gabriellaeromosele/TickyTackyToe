@@ -1,10 +1,9 @@
 # Ticky Tacky Toe
 
 ### Wireframe
-![wireframe](./wireframe/7990bdb6358346cd83934fe85b11b589.png)
+![wireframe](./Wireframe/image.png)
 
 ### Game Instructions 
-
 1. The game is played on a grid that's 3 squares by 3 squares.
 
 2. Player 1 (X) and Player 2(O) will take turns putting their marks in empty squares.
@@ -19,4 +18,4 @@
 ##### Friday - JavaScript
 ##### Saturday - Talk to Angel/Itzamna about JavaScript and talk about HTML & CSS
 ##### Sunday - Start working on HTML & CSS 
-# TickyTackyToe
+
