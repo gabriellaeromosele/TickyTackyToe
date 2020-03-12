@@ -1,7 +1,7 @@
 # Ticky Tacky Toe
 
 ### Wireframe
-![wireframe](./Wireframe/image.png)
+![wireframe](./Wireframe/wireframe.png)
 
 ### Game Instructions 
 1. The game is played on a grid that's 3 squares by 3 squares.
