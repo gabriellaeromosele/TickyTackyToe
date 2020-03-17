@@ -19,3 +19,5 @@
 ##### Saturday - Talk to Angel/Itzamna about JavaScript and talk about HTML & CSS
 ##### Sunday - Start working on HTML & CSS 
 
+References:
+https://dev.to/bornasepic/pure-and-simple-tic-tac-toe-with-javascript-4pgn
